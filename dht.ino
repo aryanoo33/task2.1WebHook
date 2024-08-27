@@ -11,8 +11,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // Define the SSID (WiFi network name) and password for connection
-#define SECRET_SSID "arsh"
-#define SECRET_PASS "12345678"
+#define SECRET_SSID "aryan"
+#define SECRET_PASS "98765432"
 
 // Define the ThingSpeak channel ID and write API key
 #define SECRET_CH_ID 2635601
